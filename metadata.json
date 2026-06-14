@@ -1,0 +1,6 @@
+{
+  "name": "Python程式設計接接樂",
+  "description": "一款專為高二資訊科技課程設計的 Python 結構化程式設計（循序、選擇、重複）互動式接物教育遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
